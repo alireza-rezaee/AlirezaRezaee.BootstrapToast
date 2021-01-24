@@ -18,6 +18,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{8589DB2B-8A99-4A93-B98D-F77201981238}"
 	ProjectSection(SolutionItems) = preProject
 		.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
+		.github\workflows\publish.yml = .github\workflows\publish.yml
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlirezaRezaee.BootstrapToastTagHelper", "src\AlirezaRezaee.BootstrapToastTagHelper\AlirezaRezaee.BootstrapToastTagHelper.csproj", "{C5F12642-B6B7-47DD-9C3C-16ED83EBAFC7}"

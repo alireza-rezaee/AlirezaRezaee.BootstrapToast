@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Alireza Rezaee</Authors>
+    <RepositoryUrl>https://github.com/alireza-rezaee/AlirezaRezaee.BootstrapToast</RepositoryUrl>
+    <PackageTags>TagHelper;dotnet;toast;bootstrap</PackageTags>
+    <SignAssembly>false</SignAssembly>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>A .NET library and actually a TagHelper for displaying Bootstrap toasts.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <UserSecretsId>038d763d-a64f-4687-8644-6df1bb9f05b9</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
