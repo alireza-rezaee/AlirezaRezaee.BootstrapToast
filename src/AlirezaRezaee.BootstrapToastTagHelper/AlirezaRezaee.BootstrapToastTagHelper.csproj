@@ -11,6 +11,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <UserSecretsId>038d763d-a64f-4687-8644-6df1bb9f05b9</UserSecretsId>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
