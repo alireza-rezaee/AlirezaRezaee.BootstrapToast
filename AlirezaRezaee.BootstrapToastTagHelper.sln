@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{054D971E-3451-42AF-8A6B-E84075855EAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "~", "~", "{CC3E213D-FEB4-4AE1-A5E8-779230DA1CB8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHub", "GitHub", "{FA6CEB4D-E6EB-4095-A167-555C6037D674}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{8589DB2B-8A99-4A93-B98D-F77201981238}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlirezaRezaee.BootstrapToastTagHelper", "src\AlirezaRezaee.BootstrapToastTagHelper\AlirezaRezaee.BootstrapToastTagHelper.csproj", "{C5F12642-B6B7-47DD-9C3C-16ED83EBAFC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F12642-B6B7-47DD-9C3C-16ED83EBAFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F12642-B6B7-47DD-9C3C-16ED83EBAFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F12642-B6B7-47DD-9C3C-16ED83EBAFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F12642-B6B7-47DD-9C3C-16ED83EBAFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8589DB2B-8A99-4A93-B98D-F77201981238} = {FA6CEB4D-E6EB-4095-A167-555C6037D674}
+		{C5F12642-B6B7-47DD-9C3C-16ED83EBAFC7} = {054D971E-3451-42AF-8A6B-E84075855EAD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C98006-7A03-417D-A1B7-8509D2FA16E0}
+	EndGlobalSection
+EndGlobal
