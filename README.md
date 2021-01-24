@@ -41,7 +41,7 @@ window.addEventListener('load', () => {
 
 ### Dependency
 
-* .Net standard (>=2.0)
+* [.Net standard](https://docs.microsoft.com/en-us/dotnet/standard/net-standard) (>=2.0)
 * [Twitter Bootstrap](https://getbootstrap.com/) 5.x
 * [Twitter Bootstrap Icons](https://icons.getbootstrap.com/) (optional)
 * [timeago.js](https://timeago.org/) (optional)
